@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  background-color:black;
+  overflow:auto;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+}
+
+body {
+    text-align:center;
+}
+
+#project {
+  height: 25%;
+  width: 45%;
+  margin-right: 3vw;
+  text-align:center;
+  display:inline-block;
+}
+
+#logo {
+  height: 25%;
+  width: 25%;
+  text-align:center;
+  display:inline-block;
+}
+
+#Search{
+  box-sizing: border-box;
+  background-color:white;
+  width: 80vw;
+  height: 5vh;
+  margin-right: 1.5vw;
+  margin-top: 5vw;
+}
+
+button{
+  box-sizing: border-box;
+  background-color:lightgrey;
+  height: 5vh;
+  width: 10vw;
+}
+
+#menu{
+  display:inline-block;
+  box-sizing: border-box;
+  background-color:lightgrey;
+  height: 10vh;
+  width: 25vw;
+  margin-top: 5vw;
+  margin-right: 7vw;
+}
+
+#tutorial{
+  display:inline-block;
+  box-sizing: border-box;
+  background-color:lightgrey;
+  height: 10vh;
+  width: 25vw;
+  margin-top: 5vw;
+}
+
+footer{
+  box-sizing: border-box;
+  background-color:white;
+  border-width: 10px;
+  height: 10vw;
+  margin-top: 20vw;;
+  text-align:center;
+  font-size:5vh;
+}

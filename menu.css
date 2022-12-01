@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    background-color:#008000;
+    overflow:auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:lightgreen;
+  }
+  
+  body {
+    border: black;
+    text-align:center;
+  }
+
+  h1 {
+    box-sizing: border-box;
+    background-color:black;
+    width: 30vw;
+    height: auto;
+    display: inline-block;
+    font-size: 5vw;
+    padding-top: 1vw;
+    font-weight: 1000;
+    color:rgb(122, 211, 122);
+  }
+
+  #food_items{
+    width: 30vw;
+    height: auto;
+    display: inline-block;
+    font-size: 3vw;
+  }
+
+  #project {
+    height: 30%;
+    width: 30%;
+    margin-right: 15vw;
+    text-align: center;
+    display: inline-block;
+  }
+
+  #logo {
+    height: 15%;
+    width: 15%;
+    text-align:center;
+    float: left;
+    display: block;
+  }
+
+  #Search{
+    box-sizing: border-box;
+    background-color:lightgrey;
+    color:black;
+    width: 80vw;
+    height: 5vh;
+    margin-right: 1.5vw;
+  }
+
+  button{
+    box-sizing: border-box;
+    background-color:black;
+    width: 30vw;
+    height: auto;
+    display: inline-block;
+    font-size: 3vw;
+    margin-top: 2vw;
+  }
+
+  #Search_button{
+    box-sizing: border-box;
+    background-color:black;
+    height: 5vh;
+    width: 10vw;
+    font-size: 2vw;
+  }
+
+  button:hover{
+    color:aqua;
+    background-color:grey;
+  }
+
+  img{
+    width: 30vw;
+  }
+
+  .selector{
+    margin-top:5vh;
+    display:inline-block;
+  }
+
+  #snacks {
+    margin-top: 1vw;
+  }
+  
+  footer{
+    box-sizing: border-box;
+    background-color:black;
+    border-width: 10px;
+    height: 10vw;
+    margin-top: 20vw;;
+    text-align:center;
+    font-size:3vw;
+  }
+  
+  
